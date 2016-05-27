@@ -37,4 +37,4 @@ Looking for talk ideas? Have a look at the [issues](https://github.com/HannoverJ
 
 ##### May 27
 
-- Introduction to [yargs](https://github.com/yargs/yargs) by [Max Rittmüller](https://twitter.com/maxrimue)
+- [Introduction to yargs](https://drive.google.com/file/d/0B50dU0dvFeUOcGxibXpBcW55Y3c/view?usp=sharing) by [Max Rittmüller](https://twitter.com/maxrimue)
