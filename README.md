@@ -33,4 +33,4 @@ Talks from the past years can be found [here](https://github.com/HannoverJS/talk
 
 #### May 26
 
-- [Introduction to yargs](https://drive.google.com/file/d/0B50dU0dvFeUOcGxibXpBcW55Y3c/view?usp=sharing) by [Max Rittmüller](https://twitter.com/maxrimue)
+- [Introduction to yargs](https://speakerdeck.com/maxrimue/introduction-to-yargs) by [Max Rittmüller](https://twitter.com/maxrimue)
