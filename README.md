@@ -34,3 +34,8 @@ Talks from the past years can be found [here](https://github.com/HannoverJS/talk
 #### May 26
 
 - [Introduction to yargs](https://speakerdeck.com/maxrimue/introduction-to-yargs) by [Max Rittmüller](https://twitter.com/maxrimue)
+
+#### June 23
+
+- [grep/ack/ag](https://speakerdeck.com/stphnrdmr/grep-ack-ag) by [Stephan Rodemeier](https://twitter.com/stphnrdmr)
+
